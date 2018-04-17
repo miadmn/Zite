@@ -16,7 +16,7 @@
     "height": 521,
     "width": 323,
     "x": 386,
-    "y": 496
+    "y": 345
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -38,18 +38,8 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "A talk with Einstein"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
-      "value": "$8000"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
-      "value": "2K"
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
     },
     {
       "_class": "overrideValue",
@@ -58,20 +48,35 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4B8539DB-E0B0-41DC-81F9-5204C75EB0E6",
-      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
+      "value": "2K"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
       "value": "Woodstock"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Enjoy experiencing the first Woodstock in 1969 and feel the love."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$8000"
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "A talk with Einstein",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Woodstock",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/10ba3dfeb2e079bcd67a8e1fd39b1fe2ca9658ad",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Woodstock",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Enjoy experiencing the first Woodstock in 1969 and feel the love.",
     "7019023F-2684-453D-B3BF-6439BBAF1601": "2K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$8000"
   },

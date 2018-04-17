@@ -30,6 +30,10 @@
     {
       "class": "shapeGroup",
       "id": "9C5387FC-F0C9-457D-A801-8DE4BCA622E7"
+    },
+    {
+      "class": "slice",
+      "id": "67210D79-DB0D-4A56-B9B4-5C53CDAB73CB"
     }
   ],
   "name": "np_heart_805654_000000",

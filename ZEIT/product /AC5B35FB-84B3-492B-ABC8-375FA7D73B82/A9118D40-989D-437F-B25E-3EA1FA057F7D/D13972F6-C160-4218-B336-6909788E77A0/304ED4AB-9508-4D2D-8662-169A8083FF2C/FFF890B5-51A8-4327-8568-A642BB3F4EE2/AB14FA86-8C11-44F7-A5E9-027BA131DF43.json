@@ -22,11 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "03C7FE03-8AE7-4ECA-8474-C6D961723634",
     "height": 16,
-    "width": 31.79934915027943,
-    "x": 156.6117945651269,
-    "y": 1.195810420773569
+    "width": 32,
+    "x": 157,
+    "y": 1
   },
   "glyphBounds": "{{8, 2}, {16, 12}}",
   "isFlippedHorizontal": false,

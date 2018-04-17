@@ -44,7 +44,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -206,24 +206,12 @@
       "id": "919CF78D-1549-40D4-B560-D5BCC38B47CB"
     },
     {
+      "class": "text",
+      "id": "257B3D62-73B0-4E4E-B0E0-F3C0BD129B7F"
+    },
+    {
       "class": "symbolInstance",
       "id": "9570C25D-2564-4757-80CA-3B8C492CE4BC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B0E8B0BC-AEF6-4184-8775-11A78673CDAE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6AA1FD20-4BE6-4FEE-93F7-480AB1EFE8F0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD61CC3A-CD4D-4F70-97DE-F0AC8D2BBC88"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "45ED9C3E-C738-4FB3-9528-F0E5B63B8269"
     },
     {
       "class": "symbolInstance",
@@ -232,6 +220,38 @@
     {
       "class": "symbolInstance",
       "id": "4477D135-91D5-49F2-BFC5-9535ED28C53E"
+    },
+    {
+      "class": "slice",
+      "id": "CC961E45-1299-4CDD-85E5-E2B8BF73A90A"
+    },
+    {
+      "class": "slice",
+      "id": "F45D584F-D23F-4ADA-986B-381A703574F4"
+    },
+    {
+      "class": "slice",
+      "id": "87C03C59-6CE9-4F9A-AA6C-ECB01BCD6F01"
+    },
+    {
+      "class": "slice",
+      "id": "F80E6049-7D9C-45E1-8CA8-EAD2D630B8C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69E3633E-594F-4B91-B170-15A021CB6CA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D986D83-A2CF-4B4E-93A6-356768E077A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDBC8306-8B9B-4C09-A540-266812275DF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6499264E-3B1A-422F-9E67-A77DD3EF71EC"
     }
   ],
   "layout": {
@@ -249,7 +269,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1359
   },
-  "name": "Product Desktop",
+  "name": "Product",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

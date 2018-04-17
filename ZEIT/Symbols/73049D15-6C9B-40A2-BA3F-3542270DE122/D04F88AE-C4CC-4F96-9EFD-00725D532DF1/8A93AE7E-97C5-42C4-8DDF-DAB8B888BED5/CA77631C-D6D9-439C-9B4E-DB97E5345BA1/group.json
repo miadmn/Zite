@@ -34,6 +34,10 @@
     {
       "class": "shapeGroup",
       "id": "DC97588D-7E11-4F64-9AE0-475004CC1A09"
+    },
+    {
+      "class": "slice",
+      "id": "12A28412-4198-4C2C-9D2D-0CD9E1CD8FE8"
     }
   ],
   "name": "Rectangle Copy",

@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,10 +34,14 @@
     {
       "class": "shapeGroup",
       "id": "D400E8A4-17DC-49AB-8616-2F6A5DE27746"
+    },
+    {
+      "class": "slice",
+      "id": "AF8C35AF-B9AF-41D4-A320-05F100AA9EA5"
     }
   ],
-  "name": "np_more_712736_000000 copy",
-  "nameIsFixed": false,
+  "name": "Slider dots",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

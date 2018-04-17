@@ -31,7 +31,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8C60D1AB-28EB-4AFA-B9BE-A6750B605E41",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -41,31 +45,35 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "53ED3B31-7BB3-4CC2-8CDE-1D6B31095239",
       "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
       "value": "1.4K"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B295BA39-D6D0-4F39-BEC9-94818B3DC851",
-      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
-      "value": "#America"
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Listen to Mozart's Vienna in an unforgettable night"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D8C9F261-618E-4C7B-8EC2-FA5B7E90DA56",
-      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "Mozart's Vienna"
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "Mozart"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
     }
   ],
   "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Mozart",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/b2a0be11d2369e695948e60591be072c7e593d9b",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Mozart's Vienna",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Listen to Mozart's Vienna in an unforgettable night",
     "7019023F-2684-453D-B3BF-6439BBAF1601": "1.4K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America"
   },
   "resizingConstraint": 63,

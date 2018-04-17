@@ -30,7 +30,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "59465775-5B85-49A5-924E-E2E70FF343A9_stringValue",
-      "value": "SignUp To Hear About New Destinations"
+      "value": "Hear About New Destinations"
     },
     {
       "_class": "overrideValue",
@@ -44,7 +44,7 @@
     }
   ],
   "overrides": {
-    "59465775-5B85-49A5-924E-E2E70FF343A9": "SignUp To Hear About New Destinations",
+    "59465775-5B85-49A5-924E-E2E70FF343A9": "Hear About New Destinations",
     "647A74E1-A77F-459D-8E24-5448EB34AE7D": "New Destinations every-month!",
     "D2E1F4E9-D2C5-437F-8614-00A2E5D34E58": {
       "76C5963C-D496-419E-A434-C0DC058C8E95": "Example@gmail.com"

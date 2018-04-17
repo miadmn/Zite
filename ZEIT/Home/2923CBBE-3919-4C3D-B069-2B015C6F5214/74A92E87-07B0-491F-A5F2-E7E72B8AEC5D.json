@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74A92E87-07B0-491F-A5F2-E7E72B8AEC5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 60,
+    "width": 60,
+    "x": 1336,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3a9141aa06a6861b9eaa9dabb36745cb52921725",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/de717f26717229e641c392ddf350592c977ab39b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/571b3fb50a1801748bbe705a14ba31cdabddd0a0",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3a9141aa06a6861b9eaa9dabb36745cb52921725",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fb2c5afa7e1aba8aeecb9199291eb0bfd0a97e31",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3633b270854b9908ebfc14277bef68a6c2b598b2",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/aa21c120e37d7f0978958d836bd4a0b694b999d3",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33CB22BA-63D4-4D0F-AF34-3812DC2DE417_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0e0a849f8e43f6f8c371d5d033fcc89aae36dfea",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "33CB22BA-63D4-4D0F-AF34-3812DC2DE417": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/0e0a849f8e43f6f8c371d5d033fcc89aae36dfea",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31D52DC9-5BDD-42BD-A4AA-D01712E6CC00",
+  "verticalSpacing": 0
+}

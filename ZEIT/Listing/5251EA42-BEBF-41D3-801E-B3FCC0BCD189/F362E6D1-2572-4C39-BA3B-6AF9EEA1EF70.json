@@ -16,7 +16,7 @@
     "height": 521,
     "width": 323,
     "x": 1076,
-    "y": 496
+    "y": 345
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -39,7 +39,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "warhol"
+      "value": "Andy Warhol"
     },
     {
       "_class": "overrideValue",
@@ -55,17 +55,24 @@
       "_class": "overrideValue",
       "do_objectID": "76CC0A29-CB86-46B1-9766-0F4DB985FCB2",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "talk"
+      "value": "Experience one of Andy Warhol's famous parties And meet other artists."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CB916C2-EE63-4D0D-9DE4-02B3F65B60F9",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "warhol",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Andy Warhol",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/9a64403eafae512eaac09ed33c39060eb0b40cb6",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "talk",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Experience one of Andy Warhol's famous parties And meet other artists.",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2000"
   },

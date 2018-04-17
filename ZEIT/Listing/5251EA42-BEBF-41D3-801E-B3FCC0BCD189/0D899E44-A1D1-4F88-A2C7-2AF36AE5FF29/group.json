@@ -12,7 +12,7 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "height": 30,
     "width": 30,
     "x": 1274,

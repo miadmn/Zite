@@ -31,7 +31,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DB3646E4-AD8E-430A-9E29-7509DFAD7550",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -41,44 +40,45 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4315FEE4-047B-4E03-B137-FA076C369227",
-      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "General Sherman"
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Time"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7AB3C217-BC16-4845-8A13-138B80999204",
       "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
       "value": "#America"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "03B139A2-3969-40EE-B36C-C1DF7CDCE5EB",
       "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
       "value": "1K"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3C5CD529-C059-43B1-ADEE-BD3146252ABC",
-      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
-      "value": "$2300"
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "Age of Beowulf"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E9FCEE06-B9E4-4481-B1BA-63387C31DB4A",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "Southern Sweden, age of Beowulf"
+      "value": "Experience Southern Sweden, age of Beowulf and The lifestyle."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$2300"
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "General Sherman",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Age of Beowulf",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/33074d97d38afb65b48cb560b24fbfb3b5ab12fa",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Southern Sweden, age of Beowulf",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Experience Southern Sweden, age of Beowulf and The lifestyle.",
     "7019023F-2684-453D-B3BF-6439BBAF1601": "1K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Time",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2300"
   },

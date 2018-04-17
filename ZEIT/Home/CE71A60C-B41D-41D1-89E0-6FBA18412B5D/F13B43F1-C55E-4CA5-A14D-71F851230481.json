@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F13B43F1-C55E-4CA5-A14D-71F851230481",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0823DEED-2ECF-4091-938F-572D68ECBCFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F0C4DD1-979F-4226-93AE-DF12D6AB78EE",
+    "height": 521,
+    "width": 323,
+    "x": 397,
+    "y": 1239
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card  copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB3646E4-AD8E-430A-9E29-7509DFAD7550",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cfa97a8c20049aa69f1b31217df7c91764fb0108",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6C78D91-8A44-431E-9480-D7DAEF2C5A78",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "The Great Wall"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BF8383B-445D-4769-96D0-48B17CEDBBC3",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$8000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19E91702-3D70-486C-81E8-78AC6D24ACED",
+      "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
+      "value": "2K"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCA4A86B-DB64-4DDB-9685-662BC1EFA5A8",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#Europe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B6499A0-17D1-46F7-8301-6E7EBB13A917",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Experience last days of building the Great Wall of China."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D9282E1-2AD4-4555-A6CB-B2D158744446",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Location"
+    }
+  ],
+  "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "The Great Wall",
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/cfa97a8c20049aa69f1b31217df7c91764fb0108",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Experience last days of building the Great Wall of China.",
+    "7019023F-2684-453D-B3BF-6439BBAF1601": "2K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Location",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
+    "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$8000"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CDBDD2E-82E0-492E-9A52-0ACAF0215817",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

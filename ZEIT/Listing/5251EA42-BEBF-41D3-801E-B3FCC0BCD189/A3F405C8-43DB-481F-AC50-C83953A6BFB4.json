@@ -16,7 +16,7 @@
     "height": 521,
     "width": 323,
     "x": 1076,
-    "y": 1200
+    "y": 1035
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -39,21 +39,42 @@
     {
       "_class": "overrideValue",
       "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
-      "value": "1.4K"
+      "value": "898"
     },
     {
       "_class": "overrideValue",
       "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
       "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "027944FF-76D2-4072-9AF3-2D7635E25852",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "New York"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "313E45E1-04E4-4323-BAFF-11CA27AEBBCA",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Location"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15DDA7DC-7321-423E-8EBF-4192206B6BB9",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Experience one of the most important times and locations for contemporary art."
     }
   ],
   "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "New York",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/13b8d55cdd39628074f3901df97b2a148f9e4eb9",
       "_ref_class": "MSImageData"
     },
-    "7019023F-2684-453D-B3BF-6439BBAF1601": "1.4K",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Experience one of the most important times and locations for contemporary art.",
+    "7019023F-2684-453D-B3BF-6439BBAF1601": "898",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Location",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America"
   },
   "resizingConstraint": 63,

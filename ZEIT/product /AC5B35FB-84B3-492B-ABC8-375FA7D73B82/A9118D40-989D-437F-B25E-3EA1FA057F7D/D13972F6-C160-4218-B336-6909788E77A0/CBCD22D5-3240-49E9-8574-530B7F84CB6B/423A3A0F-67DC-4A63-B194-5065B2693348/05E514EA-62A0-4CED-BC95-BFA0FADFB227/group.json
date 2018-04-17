@@ -14,18 +14,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1887E64C-FCDA-4441-AE4D-1027F99A57F4",
-    "height": 12.4390243902439,
-    "width": 24.14634146341464,
-    "x": 2.953508771929827,
-    "y": 8.795859300368619
+    "height": 12,
+    "width": 24,
+    "x": 3,
+    "y": 9
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

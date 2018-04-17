@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 68,
     "width": 149,
-    "x": 1162,
+    "x": 1161,
     "y": 2097
   },
   "hasClickThrough": false,
@@ -36,6 +36,10 @@
     {
       "class": "shapeGroup",
       "id": "BD61F8E3-A0B2-4E23-AE0E-BF7219A5A3BA"
+    },
+    {
+      "class": "slice",
+      "id": "FBCE1EB5-7642-476E-B8E8-62AE31567DB3"
     }
   ],
   "name": "Group 7",

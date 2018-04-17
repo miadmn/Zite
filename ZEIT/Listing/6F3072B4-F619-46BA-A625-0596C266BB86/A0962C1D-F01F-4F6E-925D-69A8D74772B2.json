@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "E88C94D8-31D3-4359-ABBB-21056AC1888E",
       "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "British Troops"
+      "value": "Martin Luther King Jr"
     },
     {
       "_class": "overrideValue",
@@ -61,17 +61,24 @@
       "_class": "overrideValue",
       "do_objectID": "65CBC1BA-78D4-4514-83EC-E4C61D105329",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "Martin Luther King Jr.'s \"I Have a Dream\" speech, August 28, 1963"
+      "value": "Watch Martin Luther King Jr.'s \"I Have a Dream\" speech on August 28, 1963."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EFCDDC0-0CD3-483E-A52F-B0511514ED6E",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "British Troops",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Martin Luther King Jr",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/c3bf3dbb14746e86d73733652761dfe38ad845ab",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Martin Luther King Jr.'s \"I Have a Dream\" speech, August 28, 1963",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Watch Martin Luther King Jr.'s \"I Have a Dream\" speech on August 28, 1963.",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2000"
   },

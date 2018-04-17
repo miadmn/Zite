@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "1B6D011C-5B9C-46FC-ADC1-51F4E791BC1F",
       "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "V-J Day"
+      "value": "Shakespeare"
     },
     {
       "_class": "overrideValue",
@@ -67,18 +67,25 @@
       "_class": "overrideValue",
       "do_objectID": "FDBEC3D2-AEA9-47DC-B3A1-C29BBCFFD225",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "Shakespeare at the Globe, 1608"
+      "value": "Watch Shakespeare at the Globe, in 1608."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6450366A-2BCA-4F7A-A7CE-BC86B4884671",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "V-J Day",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Shakespeare",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/9100ea19a2c7201cf26c43352432bc8ee11f0d33",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Shakespeare at the Globe, 1608",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Watch Shakespeare at the Globe, in 1608.",
     "7019023F-2684-453D-B3BF-6439BBAF1601": "1.1K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2300"
   },

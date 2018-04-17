@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3492,
+    "height": 3340,
     "width": 1440,
     "x": 1129,
     "y": -1719
@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -91,11 +91,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B6C2A8E4-75D3-4DE1-8AC5-3018986FF02A"
+      "id": "E363B677-0B99-495C-8DDD-8E5B22A25262"
     },
     {
-      "class": "group",
-      "id": "9F93DC6A-85D6-435E-9431-C48D73E9EC23"
+      "class": "symbolInstance",
+      "id": "D4DBBE5B-1844-41E3-979E-CB308436082C"
     },
     {
       "class": "group",
@@ -131,11 +131,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A3F405C8-43DB-481F-AC50-C83953A6BFB4"
+      "id": "D380981F-24C6-4F64-BCAC-04F9939FBCA2"
     },
     {
       "class": "symbolInstance",
-      "id": "CF9702DB-EEF0-40E1-B3F7-F72C2C60F801"
+      "id": "A3F405C8-43DB-481F-AC50-C83953A6BFB4"
     },
     {
       "class": "symbolInstance",
@@ -143,27 +143,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EE14A471-FAF5-4D6E-945D-25201C3B07B8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5ABCDF1E-995E-45EE-B459-4B35578CCCDC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "55B07167-3FC7-4091-9BB6-AD0B56584E40"
-    },
-    {
-      "class": "symbolInstance",
       "id": "FFC91036-9B62-4505-A02A-D84B809C3C1D"
     },
     {
       "class": "symbolInstance",
-      "id": "505059CA-EF6E-4F62-8284-91774BCE6F85"
+      "id": "491F8EE3-FA57-45C8-A8AA-0DD402E8D908"
     },
     {
       "class": "symbolInstance",
-      "id": "083BCB4C-C857-4268-9292-F564D1262F76"
+      "id": "505059CA-EF6E-4F62-8284-91774BCE6F85"
     },
     {
       "class": "symbolInstance",
@@ -180,6 +168,26 @@
     {
       "class": "group",
       "id": "F99961E8-D211-4503-97E3-86A947436279"
+    },
+    {
+      "class": "slice",
+      "id": "B17CA87D-9F00-45E3-8BEC-C390D231A411"
+    },
+    {
+      "class": "slice",
+      "id": "DEEAE31D-E9B7-499B-93EB-C153C8049E6D"
+    },
+    {
+      "class": "slice",
+      "id": "9968BAC0-BF9C-4274-B5F3-0ACF5D2FE181"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7765E2FF-0943-4905-ACD1-33489682FF1A"
+    },
+    {
+      "class": "group",
+      "id": "19ED3FD0-C89A-45D4-94B6-8DD5D426D00A"
     }
   ],
   "layout": {
@@ -197,7 +205,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1359
   },
-  "name": "Listing category",
+  "name": "Art Products",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

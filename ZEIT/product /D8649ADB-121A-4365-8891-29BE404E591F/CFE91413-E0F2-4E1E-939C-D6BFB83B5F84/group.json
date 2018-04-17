@@ -34,6 +34,10 @@
     {
       "class": "group",
       "id": "90E6BE3F-69FD-414E-B80A-113238E59873"
+    },
+    {
+      "class": "slice",
+      "id": "766D761E-EBBF-4046-A37C-C19B60C9E682"
     }
   ],
   "name": "actions",

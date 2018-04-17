@@ -31,7 +31,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8C60D1AB-28EB-4AFA-B9BE-A6750B605E41",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -41,24 +45,29 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "259650BF-BCEC-485A-9FFA-9351387A7877",
-      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
-      "value": "#America"
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Location"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "34FBE105-DE05-481A-AB4E-C766C6719CD7",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "Plato's Greece, 368 BC"
+      "value": "Explore Plato's Greece, in 368 BC and find the the roots of art, culture and philosophy"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "Greece"
     }
   ],
   "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Greece",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/f72fd9012f65328b758b3af0967c6477395d1ad4",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Plato's Greece, 368 BC",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Explore Plato's Greece, in 368 BC and find the the roots of art, culture and philosophy",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Location",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America"
   },
   "resizingConstraint": 63,

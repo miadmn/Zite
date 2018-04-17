@@ -18,7 +18,7 @@
     "height": 521,
     "width": 323,
     "x": 386,
-    "y": 1200
+    "y": 1035
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,6 +31,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#Europe"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -40,27 +45,34 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "WWI"
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
-      "value": "#Europe"
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "Cartier Berserk"
     },
     {
       "_class": "overrideValue",
       "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
       "value": "$4000"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Take a photo wak with henri cartier bresson and enjoy france in 80's."
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "WWI",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Cartier Berserk",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/d6bbaacbeffb6612bc6b6da28090d775568eb9ea",
       "_ref_class": "MSImageData"
     },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Take a photo wak with henri cartier bresson and enjoy france in 80's.",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$4000"
   },

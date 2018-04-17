@@ -35,7 +35,7 @@
     "y": 363
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,12 +52,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "slice",
+      "id": "320B6E92-DCEA-4B16-BE04-336F19066C0C"
+    },
+    {
+      "class": "slice",
+      "id": "F2C0B3C1-DB98-4F5B-9C5A-E3ECAC484DDD"
+    },
+    {
       "class": "group",
       "id": "EF1166BD-C89B-4253-8C09-8DC21A622C58"
     },
     {
-      "class": "group",
-      "id": "E4DB0827-5783-4234-87BB-32619EEF6A77"
+      "class": "symbolInstance",
+      "id": "83612C63-B5EF-4133-840E-6C4EFBAD1DD3"
     },
     {
       "class": "symbolInstance",
@@ -96,10 +104,6 @@
       "id": "B00E921B-C9A3-47D3-A6AA-914C62DFD0DC"
     },
     {
-      "class": "group",
-      "id": "A201A911-8FBC-48C4-AC03-6346B898ED19"
-    },
-    {
       "class": "symbolInstance",
       "id": "56094FE9-B6BD-414F-A5ED-09BE2B5FA564"
     },
@@ -122,10 +126,6 @@
     {
       "class": "text",
       "id": "E7059A4F-1810-4146-9DCA-EB61D20F1612"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5BAFD88B-EC93-4EE8-A367-234028758C2A"
     },
     {
       "class": "text",
@@ -162,6 +162,30 @@
     {
       "class": "group",
       "id": "B6C49881-3991-451D-A0CC-98348A0AAC2D"
+    },
+    {
+      "class": "group",
+      "id": "F6AF8BF3-FAC8-415A-8482-29683F039C46"
+    },
+    {
+      "class": "slice",
+      "id": "3077DDB0-1760-45EC-8A13-1C393DBF0EA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F13B43F1-C55E-4CA5-A14D-71F851230481"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B2DD3FD-A0AA-44F9-BCE2-4DAE8CF04F8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEA6ED0F-B83E-4E72-8B3A-2ACF4CBFCD33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC60F0C0-31D8-41D0-A516-827CA2D58507"
     }
   ],
   "layout": {
@@ -179,8 +203,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1359
   },
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Home",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

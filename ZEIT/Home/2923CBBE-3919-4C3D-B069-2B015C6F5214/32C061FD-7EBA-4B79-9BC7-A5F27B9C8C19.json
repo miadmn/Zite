@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "32C061FD-7EBA-4B79-9BC7-A5F27B9C8C19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1027,
+    "width": 1440,
+    "x": 0,
+    "y": 4096
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer full",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2E1F4E9-D2C5-437F-8614-00A2E5D34E58/76C5963C-D496-419E-A434-C0DC058C8E95_stringValue",
+      "value": "Example@gmail.com"
+    }
+  ],
+  "overrides": {
+    "D2E1F4E9-D2C5-437F-8614-00A2E5D34E58": {
+      "76C5963C-D496-419E-A434-C0DC058C8E95": "Example@gmail.com"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D926AA39-2CEC-4637-AC32-1FEA4AD6AF9A",
+  "verticalSpacing": 0
+}

@@ -45,7 +45,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -160,10 +160,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "3534EAE6-9D50-4D20-B4A7-4FD6C87726E2"
-    },
-    {
-      "class": "symbolInstance",
       "id": "84C5A48E-9404-4B7C-B6D4-B79095898B1F"
     },
     {
@@ -173,10 +169,6 @@
     {
       "class": "symbolInstance",
       "id": "2052F649-B2A0-4042-A288-BE1261283589"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F37F23EE-09CA-4BEA-9544-9C3850F59C1E"
     },
     {
       "class": "symbolInstance",
@@ -217,6 +209,22 @@
     {
       "class": "symbolInstance",
       "id": "22551B72-8DEE-4441-B5FC-0CF022A5E097"
+    },
+    {
+      "class": "slice",
+      "id": "E12DB68A-A64A-4DF0-94A8-37C7AF9B37AC"
+    },
+    {
+      "class": "slice",
+      "id": "26FE8150-6702-4CA4-B6DB-79558B840EF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56D23D5D-E7A4-44B2-AAE6-7663606CE183"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9725F6FA-3043-423B-9ED0-872890D45EB4"
     }
   ],
   "layout": {
@@ -234,7 +242,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1359
   },
-  "name": "Listing Desktop ",
+  "name": "Products",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

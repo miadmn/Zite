@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ED3D459E-D87D-49EF-89CC-F9D995F3D9D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB346AF1-B983-4E01-BDBF-61A45B52A2FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B72E2CB3-611D-4E10-B29B-571517E3970B",
+    "height": 62,
+    "width": 367,
+    "x": 155,
+    "y": 395
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 3x",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F445C930-A21B-4A12-A179-98785C2472FF",
+      "overrideName": "51C772D5-A5A8-4B4E-ABF4-A6C596C1E1E8_stringValue",
+      "value": "About The Experience"
+    }
+  ],
+  "overrides": {
+    "51C772D5-A5A8-4B4E-ABF4-A6C596C1E1E8": "About The Experience"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59124AF2-F21F-4199-AFE4-C1DCBD74E2FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8BDB35FE-F4D9-4836-B109-681B3FCC0273",
+  "verticalSpacing": 0
+}

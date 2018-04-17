@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 57,
+  "changeIdentifier": 59,
   "do_objectID": "C0041013-6F7D-45DC-9F5A-574791237035",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,8 +49,8 @@
       "id": "0DDD483E-E09F-4A3A-A51C-044CFAC95729"
     }
   ],
-  "name": "Zite logo",
-  "nameIsFixed": false,
+  "name": "Zite Logo - Light",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -15,10 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0A6DCC8D-8C16-4CCC-BFAB-8DDAB14C012B",
-    "height": 6.000000000000003,
-    "width": 6.133333333333335,
-    "x": 6.133333333333335,
+    "height": 6,
+    "width": 6,
+    "x": 6,
     "y": 0
   },
   "hasClickThrough": false,

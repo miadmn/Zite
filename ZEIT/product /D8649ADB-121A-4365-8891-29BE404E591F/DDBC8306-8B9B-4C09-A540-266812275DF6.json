@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DDBC8306-8B9B-4C09-A540-266812275DF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C189630-2085-4920-B195-EA1A09B9D8D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96C7CF16-9972-47BB-8A28-BF6CA9379EDE",
+    "height": 521,
+    "width": 323,
+    "x": 386,
+    "y": 1838
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card  copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d6bbaacbeffb6612bc6b6da28090d775568eb9ea",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "Cartier Berreson"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#Europe"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$4000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "733CBDCB-1753-41EC-BA94-57EC7B2978C2",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Event"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BCE4D70-B7B5-4E14-82A9-0EED10A31537",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Take a photo wak with henri cartier bresson and enjoy france in 80's."
+    }
+  ],
+  "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Cartier Berreson",
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/d6bbaacbeffb6612bc6b6da28090d775568eb9ea",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Take a photo wak with henri cartier bresson and enjoy france in 80's.",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Event",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
+    "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$4000"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DA43596-5C58-4B94-B3C2-F4F2027A7E03",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

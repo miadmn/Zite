@@ -22,7 +22,7 @@
     "height": 521,
     "width": 323,
     "x": 42,
-    "y": 496
+    "y": 345
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -35,6 +35,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -44,25 +49,23 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
-      "value": "#America"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
       "value": "3K"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "475070C0-BDD7-4C27-B443-BE4C96560F87",
       "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
       "value": "France"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "05AE5911-044C-4540-A477-68BECC154FED",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "van gogs france"
+      "value": "Explore Vincent van Gogh france and live in the same time as the artist."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Location"
     }
   ],
   "overrides": {
@@ -72,8 +75,9 @@
       "_ref": "images/46e68979d8806cc3122a23f03bec42a987539a29",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "van gogs france",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Explore Vincent van Gogh france and live in the same time as the artist.",
     "7019023F-2684-453D-B3BF-6439BBAF1601": "3K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Location",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America"
   },
   "resizingConstraint": 63,

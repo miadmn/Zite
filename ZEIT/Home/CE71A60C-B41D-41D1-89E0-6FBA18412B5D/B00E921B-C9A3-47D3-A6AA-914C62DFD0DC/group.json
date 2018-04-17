@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "do_objectID": "FEA3081C-139A-44AB-BC39-9D56646C9A92",
     "height": 62,
-    "width": 477,
-    "x": 42,
+    "width": 366,
+    "x": 44,
     "y": 1106
   },
   "hasClickThrough": false,
@@ -28,8 +28,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "E635A117-E4CA-43CD-9AD2-0A347433B8BC"
+      "class": "symbolInstance",
+      "id": "8C876058-1AE9-4147-AA3B-99DA2A578896"
     },
     {
       "class": "shapeGroup",

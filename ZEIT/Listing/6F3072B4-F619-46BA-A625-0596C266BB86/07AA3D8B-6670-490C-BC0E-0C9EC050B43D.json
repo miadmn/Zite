@@ -31,7 +31,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DB3646E4-AD8E-430A-9E29-7509DFAD7550",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -41,44 +40,45 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7CA5126E-BF69-4E71-AA52-AC8FE0AF6FCB",
-      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "Walt Whitman"
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Time"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D709D007-9FDB-46B7-8A03-F4B52D647168",
       "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
       "value": "#America"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A1730B80-DF3D-4912-9992-AA1273D21987",
-      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
-      "value": "$7000"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A1A70F7D-27C5-47AE-93B3-E80DBA86B5DB",
       "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
       "value": "4K"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5A586A54-D462-439E-A4B8-083A0ABB5F4C",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "20's"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "Roaring 20's USA"
+      "value": "Live in Roaring 20's USA and experience the excitement of the time."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$7000"
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Walt Whitman",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "20's",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/067572bed45d116fb476536f641ea965a2b5dedf",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Roaring 20's USA",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Live in Roaring 20's USA and experience the excitement of the time.",
     "7019023F-2684-453D-B3BF-6439BBAF1601": "4K",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Time",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$7000"
   },

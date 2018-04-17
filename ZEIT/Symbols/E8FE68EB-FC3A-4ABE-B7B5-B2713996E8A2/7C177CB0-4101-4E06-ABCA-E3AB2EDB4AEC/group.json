@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 151,
-    "width": 325,
-    "x": 0,
-    "y": 0
+    "height": 161,
+    "width": 335,
+    "x": -5,
+    "y": -4
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,6 +32,10 @@
     {
       "class": "text",
       "id": "4E587CB0-09D3-4B02-8769-CB5B31881286"
+    },
+    {
+      "class": "slice",
+      "id": "E1C47379-9106-4555-8189-C6D191590FE9"
     }
   ],
   "name": "Activity tile",

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2EECE137-5FE3-4989-8A14-70427414712C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "6F3072B4-F619-46BA-A625-0596C266BB86",
+    "do_objectID": "FA9E8052-203A-4233-A646-8C43B522263F"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 181,
+    "x": 40,
+    "y": 1933
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button desktop copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1A2A9153-7746-4262-BF93-852DC4119D0E_stringValue",
+      "value": "See more"
+    }
+  ],
+  "overrides": {
+    "1A2A9153-7746-4262-BF93-852DC4119D0E": "See more"
+  },
+  "resizingConstraint": 51,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2412DBC5-E5B0-4A37-9A6F-49DF60DBB8C1",
+  "verticalSpacing": 0
+}

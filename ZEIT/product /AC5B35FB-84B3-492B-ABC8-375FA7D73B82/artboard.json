@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -94,10 +94,6 @@
       "id": "AAB7D0B0-ED80-4657-9845-77C0BED9F151"
     },
     {
-      "class": "text",
-      "id": "9CCE2468-3F3D-47D0-B94D-0C431A604432"
-    },
-    {
       "class": "group",
       "id": "F7B0653F-E432-4FE1-B869-06166D6FB0EA"
     },
@@ -106,88 +102,16 @@
       "id": "FD449C08-84F6-49C2-AEA2-776B771425D8"
     },
     {
-      "class": "text",
-      "id": "ACFB46C2-8D2B-404C-BAC9-6EF3218C3AE1"
-    },
-    {
       "class": "group",
       "id": "75613B70-863B-458A-9F2A-7EF50DE67350"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "892AA66C-1C04-4049-8DD3-4887A163ECF3"
     },
     {
       "class": "text",
       "id": "E4915E0C-C53F-420A-9848-9250F759DC97"
     },
     {
-      "class": "text",
-      "id": "62793976-8158-4C2D-B2F0-DE96C09B4745"
-    },
-    {
-      "class": "text",
-      "id": "3F0733AC-E13F-4024-A024-0D41263A0425"
-    },
-    {
-      "class": "text",
-      "id": "F55DA5C9-9A31-4129-886B-B3FF829F013F"
-    },
-    {
-      "class": "text",
-      "id": "B9B9FF4E-1C80-4341-96EE-12F64036876D"
-    },
-    {
-      "class": "text",
-      "id": "BC6EC19A-F414-4DF8-A40C-89DB40197938"
-    },
-    {
-      "class": "text",
-      "id": "29B3333B-B5F4-416B-B82B-5A46EFDCD215"
-    },
-    {
-      "class": "text",
-      "id": "A6AF2978-83A1-4A2A-85F0-0893F2C8759E"
-    },
-    {
-      "class": "text",
-      "id": "C7BC638A-C627-4E18-A06F-54D851BD53E6"
-    },
-    {
-      "class": "text",
-      "id": "5379A95E-070D-45DC-85E0-916C2ED3680D"
-    },
-    {
-      "class": "text",
-      "id": "1C65D6D9-8CBE-4F1D-956A-9C7D9C2D4ED4"
-    },
-    {
-      "class": "text",
-      "id": "076A0555-CCD5-4F2B-8F5D-F86D2DC3D542"
-    },
-    {
-      "class": "text",
-      "id": "FCBAFD2B-93B7-430F-97AD-726F439953E3"
-    },
-    {
       "class": "symbolInstance",
       "id": "C4712AAB-2466-4FFE-BD09-2065F6D910A1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FC5CCF19-478C-47A6-ADC0-CC99312CFDC2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1CBA16E5-E911-4B33-8B33-675E3BBDA892"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4FE12477-996C-458C-8B04-03D117E37518"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6191A3E7-DB4B-4AC9-B964-F93FEECE8926"
     },
     {
       "class": "symbolInstance",
@@ -200,6 +124,90 @@
     {
       "class": "symbolInstance",
       "id": "ADE839F5-C27B-4908-AAC3-A2CCFA9EE239"
+    },
+    {
+      "class": "slice",
+      "id": "41AA0070-D5F2-4E8B-B0C2-05415FF7417A"
+    },
+    {
+      "class": "text",
+      "id": "F50D6A5F-C12A-497C-9EF2-E06327DB571E"
+    },
+    {
+      "class": "text",
+      "id": "448D9318-BA63-4407-8D2B-9C8BCBECA9C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED3D459E-D87D-49EF-89CC-F9D995F3D9D0"
+    },
+    {
+      "class": "text",
+      "id": "F722B54C-FFEB-4F03-9BBC-F44850E85ECA"
+    },
+    {
+      "class": "text",
+      "id": "C7BF0A62-CD67-4A37-BBD1-F14723A48F75"
+    },
+    {
+      "class": "text",
+      "id": "6A4539B2-F3E1-45B7-8200-030333EA2CB0"
+    },
+    {
+      "class": "text",
+      "id": "EB7809B5-33D7-4143-8FDB-436EB93F63E3"
+    },
+    {
+      "class": "text",
+      "id": "3EA61A0A-1232-4E68-8156-C22B1E0A1FEB"
+    },
+    {
+      "class": "text",
+      "id": "3C999992-919C-4EF1-B700-5B62C108AAA5"
+    },
+    {
+      "class": "text",
+      "id": "8948A753-8CFD-4D4E-A0EF-2D37EDA31B4B"
+    },
+    {
+      "class": "text",
+      "id": "D9C89931-4CD7-4D03-A126-3DFCD93DD93C"
+    },
+    {
+      "class": "text",
+      "id": "55E7001F-B962-4F8D-A14B-2DCAE0114B05"
+    },
+    {
+      "class": "text",
+      "id": "55321706-9DED-4E15-B3C5-D263D5F5C5F2"
+    },
+    {
+      "class": "text",
+      "id": "89F6AD6E-C2E8-4537-AD03-1B1C4B172C3F"
+    },
+    {
+      "class": "text",
+      "id": "E131B902-5273-45F5-8DDD-663E3470D524"
+    },
+    {
+      "class": "text",
+      "id": "B717D011-68B6-46EC-93B2-41593B51D903"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B976689-F8D5-4233-9625-3C9B765C7C46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "731D8FD8-EC64-4ECC-8FC9-D72D925BD61E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADA10AB9-0448-4C8F-9F61-9EBB251EEDD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "013C5A44-78C5-4795-9B8A-0F67686A90FA"
     }
   ],
   "layout": {
@@ -217,7 +225,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1359
   },
-  "name": "Product Desktop Copy 2",
+  "name": "Product booking",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

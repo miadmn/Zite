@@ -16,7 +16,7 @@
     "height": 521,
     "width": 323,
     "x": 732,
-    "y": 496
+    "y": 345
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -29,6 +29,16 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#Europe"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "790524D4-A0CB-4E9C-929B-8369F3E5AA32_stringValue",
+      "value": "Location"
+    },
+    {
+      "_class": "overrideValue",
       "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -39,12 +49,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
-      "value": "kalo"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
-      "value": "#Europe"
+      "value": "Mexico"
     },
     {
       "_class": "overrideValue",
@@ -53,19 +58,19 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "08BAE7C8-D6C6-4B0A-8D61-D70A5D7C3D4A",
       "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
-      "value": "tour of mexico"
+      "value": "Explore, live and enjoy Frida Kahlo Mexico in the time the artist in living in."
     }
   ],
   "overrides": {
-    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "kalo",
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "Mexico",
     "585107A0-5764-4E61-BE2F-D86150BF80C1": {
       "_class": "MSJSONFileReference",
       "_ref": "images/e56fbafe26609a6b7e48856b90f55d32643a4c09",
       "_ref_class": "MSImageData"
     },
-    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "tour of mexico",
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Explore, live and enjoy Frida Kahlo Mexico in the time the artist in living in.",
+    "790524D4-A0CB-4E9C-929B-8369F3E5AA32": "Location",
     "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
     "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$4000"
   },
