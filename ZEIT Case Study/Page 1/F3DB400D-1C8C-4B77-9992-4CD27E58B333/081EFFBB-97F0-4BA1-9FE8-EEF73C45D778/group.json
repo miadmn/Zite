@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "081EFFBB-97F0-4BA1-9FE8-EEF73C45D778",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA1BE95B-82B4-4D04-B2B9-45D437D1E20F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EAC4D53C-EBFB-4690-945F-99E07B2A22D7",
+    "height": 120,
+    "width": 180,
+    "x": 824,
+    "y": 346
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B503391-1408-409A-8BC5-A9B5214081A6"
+    },
+    {
+      "class": "text",
+      "id": "821ACE1A-8C93-4226-A90C-7D66DB1CF9CA"
+    },
+    {
+      "class": "text",
+      "id": "029F8A34-CB5F-4556-BA47-F16501EC80F2"
+    }
+  ],
+  "name": "Font: SFProDisplay-Ultralight",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B12BC89A-77CA-4767-8ADA-35B56EDFFB4C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

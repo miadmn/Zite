@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "8BFE35C6-3F91-443D-88DA-94348D0040CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "578AF296-C1CD-4B53-B049-D4E9E5BC6E80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D8A3149-94B0-42E4-8922-37B7FFA5EBFA",
+    "height": 35,
+    "width": 111,
+    "x": 293.4590163934428,
+    "y": 600.3856960408691
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F3878FD5-EB6F-4535-A2B2-76501A59DCF8"
+    }
+  ],
+  "name": "Hearing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8851EE8C-3C4D-4A28-9A3C-574B420EAE99",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

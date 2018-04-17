@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "do_objectID": "EFC73872-E564-4B3A-989B-8E07ADD33FD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1C88879-1511-4DE7-8A2E-55A5E133E6A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAE28C1C-1D96-48D1-8C46-CDCAD3D47025",
+    "height": 155,
+    "width": 110,
+    "x": 33,
+    "y": 591
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33F2B032-0FBC-4C42-8D2E-41F21B426BC1"
+    },
+    {
+      "class": "text",
+      "id": "3CFC372D-31BD-4B81-AC00-60C6DA39BB3A"
+    },
+    {
+      "class": "text",
+      "id": "B908C4D4-860B-4CB3-A674-FEE1884DD8C8"
+    },
+    {
+      "class": "text",
+      "id": "B655FC18-1082-4360-8AB8-D6ECF95C1DF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A4E1CC7-7A50-4B63-90E7-7D77A9ACB1BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BFFE80E-9E78-465F-A73F-6DAD842C0DFE"
+    }
+  ],
+  "name": "Dark jungle green",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "710B16EF-A22A-4855-B2B7-682450DC96D1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.1607843137254902,
+        "green": 0.0784313725490196,
+        "hex": "051429",
+        "name": "Dark jungle green",
+        "red": 0.0196078431372549
+      }
+    }
+  }
+}

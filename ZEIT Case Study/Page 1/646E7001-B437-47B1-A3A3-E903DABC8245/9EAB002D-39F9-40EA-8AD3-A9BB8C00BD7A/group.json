@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "do_objectID": "9EAB002D-39F9-40EA-8AD3-A9BB8C00BD7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "070406B0-DBC8-4C34-89A0-9259FAB8B479",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E356B052-7AEE-4C03-B3CF-F425C3FB598F",
+    "height": 155,
+    "width": 110,
+    "x": 422,
+    "y": 591
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "97F968E9-43E2-4045-906D-E784BF6DA787"
+    },
+    {
+      "class": "text",
+      "id": "9AE2796B-1CD3-4DEC-B368-351C6250758F"
+    },
+    {
+      "class": "text",
+      "id": "62AC9B77-813B-4CBF-9FFC-A6698157D89D"
+    },
+    {
+      "class": "text",
+      "id": "D0523695-B59D-4A69-807F-C803336C4E29"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFA6E238-4CA7-4D26-82BE-A4B50583DA09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6182CD5-BAA2-4829-924E-E883BBDE1107"
+    }
+  ],
+  "name": "Medium turquoise",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8E5FF6B-33FA-4F5E-A427-C234279ED88C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.8156862745098039,
+        "hex": "60D0D8",
+        "name": "Medium turquoise",
+        "red": 0.3764705882352941
+      }
+    }
+  }
+}

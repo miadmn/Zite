@@ -1,0 +1,69 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGVVZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAcHR4fICwtLi8wMTIzNDo+RkdISUpNUVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1ZTRUVJTkfTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeACIASgBFWTlNLZXJuXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZSI9VwpA0xESCiEmG6QiIyQlgAmACoALgAykJygpKoANgA6AD4AQgBFTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8YjZsAAAAAjP/AAAAAAAAAjP8+aw8AAAAAjP8vmUYAAAADSNTY3OFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI3OVhOU09iamVjdNIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGYAT0xESCj9CRaJAQYAUgBWiQ0SAFoAXgBhfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANQAAAAAAAF5IZWx2ZXRpY2EtQm9sZNI1NktMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLNznSNTZOT18QEE5TRm9udERlc2NyaXB0b3KiUDlfEBBOU0ZvbnREZXNjcmlwdG9y0jU2UlNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVDlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRV1hUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAjACTAJsApgCqAKwArgCwALQAtgC4ALoAvADDAPABEgEXAR4BIwElAScBKQErATABMgE0ATYBOAE6AT4BRAFJAU8BWAFhAWoBcwF4AYMBjAGZAZwBpQGqAccByQHLAdIB1QHXAdkB3AHeAeAB4gH4Ag4CFwImAisCQQJFAkoCXQJgAnMCeAKNApACpQK3AroCvwAAAAAAAAIBAAAAAAAAAFkAAAAAAAAAAAAAAAAAAALB"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8DE4F44D-30FB-4394-96A0-8A08DB99B91D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCEA0100-1E3E-4E66-8BD3-A77886E9FBC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "854604E8-0DA2-4051-9F64-E314D6315C10",
+    "height": 34.15813613261228,
+    "width": 90.43506533470307,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 4}, {79, 17}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8F783AC-6DBD-442B-9FC1-B0C2B2F8C662",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "B87BEFC9-781F-4D14-B040-2A7C2D1A35A9",
+      "encodedAttributes": {
+        "MSAttributedStringColorDictionaryAttribute": {
+          "alpha": 1,
+          "blue": 0.2469105422496796,
+          "green": 0.2179662585258484,
+          "red": 0.1729553639888763
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANQAAAAAAAF5IZWx2ZXRpY2EtQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+        },
+        "kerning": 0.05250001
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 2
+}

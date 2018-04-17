@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C830EC7F-DD88-4BF0-B197-5B027FAA4EE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80.81663543067229,
+    "width": 119.8315628799624,
+    "x": 360,
+    "y": 604
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A81ABD00-F5D8-418E-B28E-E8D4860AABDB"
+    },
+    {
+      "class": "text",
+      "id": "3B3C4258-2384-4587-8D6C-F1C95E829E1C"
+    }
+  ],
+  "name": "BLOCK page Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

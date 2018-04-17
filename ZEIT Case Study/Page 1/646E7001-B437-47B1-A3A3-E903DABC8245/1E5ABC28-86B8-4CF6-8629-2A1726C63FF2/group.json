@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "do_objectID": "1E5ABC28-86B8-4CF6-8629-2A1726C63FF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF9D02CF-31D9-4C39-90C2-C23D03CC7FDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F3B2799-E8DA-4AD2-9AAF-F61D1F97C849",
+    "height": 155,
+    "width": 110,
+    "x": 539,
+    "y": 591
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "50ABF156-F26D-4B64-BE6F-F56E78DF13AE"
+    },
+    {
+      "class": "text",
+      "id": "261EF5FF-19DA-459E-996E-343044BA83DD"
+    },
+    {
+      "class": "text",
+      "id": "7FFC8026-290E-4106-B7B3-67D9314AEF6B"
+    },
+    {
+      "class": "text",
+      "id": "3ADB1F45-F5D1-45C6-992E-75FA71A51845"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BA190BD-A033-4D8A-8B3E-5BCC9B2DBFF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6607CA2-DD6D-46E5-97EC-E543E0258EA8"
+    }
+  ],
+  "name": "White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA67349C-8E0A-487B-9406-4E2ADD9C2880",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "hex": "FFFFFF",
+        "name": "White",
+        "red": 1
+      }
+    }
+  }
+}

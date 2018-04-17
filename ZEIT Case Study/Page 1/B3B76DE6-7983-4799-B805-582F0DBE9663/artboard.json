@@ -1,0 +1,186 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9215686274509803,
+    "green": 0.8980392156862745,
+    "red": 0.9254901960784314
+  },
+  "do_objectID": "B3B76DE6-7983-4799-B805-582F0DBE9663",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 771,
+    "width": 1440,
+    "x": 37,
+    "y": 12077
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "325C3A34-1625-433E-B288-4C3C6CD2596B"
+    },
+    {
+      "class": "text",
+      "id": "29373294-15F3-4AAA-9E74-26831ED75FA1"
+    },
+    {
+      "class": "text",
+      "id": "E0CE4521-36A3-48E9-BDE2-3A6D9A170B3E"
+    },
+    {
+      "class": "bitmap",
+      "id": "BA670671-6D3B-4483-A030-C45E617409A5"
+    },
+    {
+      "class": "group",
+      "id": "879D17A7-16D4-46AD-AB54-DE214C11FE61"
+    },
+    {
+      "class": "group",
+      "id": "1BE5C07C-ACCF-40DB-BFC7-A8EB7ABF8ECF"
+    },
+    {
+      "class": "group",
+      "id": "8F36AED9-049A-4ED4-8D1D-A1F2B1AA9459"
+    },
+    {
+      "class": "group",
+      "id": "C830EC7F-DD88-4BF0-B197-5B027FAA4EE0"
+    },
+    {
+      "class": "group",
+      "id": "67D6BAD6-356F-442F-AFB6-E8F307D7AEA6"
+    },
+    {
+      "class": "group",
+      "id": "0022491A-5CC8-4E9C-A5FA-40316EEDB719"
+    },
+    {
+      "class": "group",
+      "id": "77EEE853-0E90-4907-A85C-D0EF77B0F135"
+    },
+    {
+      "class": "group",
+      "id": "C22207B3-645D-454E-89E3-AA3918C0101E"
+    },
+    {
+      "class": "group",
+      "id": "BDEB63D7-9BC3-4EC5-892E-25455492C2B5"
+    },
+    {
+      "class": "group",
+      "id": "EB9527ED-BE8E-4671-BFF2-28037117E7E3"
+    },
+    {
+      "class": "group",
+      "id": "4718E885-9BB0-45F4-8D84-9A745B0A81EF"
+    },
+    {
+      "class": "group",
+      "id": "ABE13F69-B9D8-4550-88A9-8D2479664C27"
+    },
+    {
+      "class": "group",
+      "id": "7634E184-2E0D-4E82-B6D1-8431D2CDC97A"
+    },
+    {
+      "class": "text",
+      "id": "65138C79-0FA7-4021-8703-AA905CCBF808"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 94.91666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 40.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1359
+  },
+  "name": "15",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

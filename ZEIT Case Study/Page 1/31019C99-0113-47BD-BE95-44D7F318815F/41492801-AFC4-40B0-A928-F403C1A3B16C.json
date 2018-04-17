@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "41492801-AFC4-40B0-A928-F403C1A3B16C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1862F8BB-4FDC-4ED5-9232-D27CD462233E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "45F4987A-DA52-407D-9899-25A9818AF26E",
+    "height": 78,
+    "width": 231,
+    "x": 732,
+    "y": 680
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/50845729aaa2f7366fde4aa278eb3ac8bb95dfcf",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "googlelogo_white_background_color_272x92dp",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F37D65C-85C4-466D-9A55-76A5E5112303",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
