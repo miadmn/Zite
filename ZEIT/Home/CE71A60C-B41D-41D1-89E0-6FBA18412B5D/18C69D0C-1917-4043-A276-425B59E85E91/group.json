@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "18C69D0C-1917-4043-A276-425B59E85E91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E8A354C-CF40-4B89-AED8-B66BD0BDC0D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "6F3072B4-F619-46BA-A625-0596C266BB86",
+    "do_objectID": "1E8992D4-5728-45DB-8BF6-23F8369B9851"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "367C92B4-016A-4A6F-A188-C9CFC5A66347",
+    "height": 54,
+    "width": 440,
+    "x": 57,
+    "y": 620
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "827A4361-1B81-42C8-9A53-B78CA458BF12"
+    }
+  ],
+  "name": "Search bar Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78E01567-E4CA-4D24-90AD-E9051AEF9C6B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

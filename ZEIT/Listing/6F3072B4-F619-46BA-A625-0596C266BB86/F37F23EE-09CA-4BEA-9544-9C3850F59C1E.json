@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F37F23EE-09CA-4BEA-9544-9C3850F59C1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC96EB83-D5FD-4C50-BEDE-4F24CDAC5563",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7474BAD-ECB2-4224-98A2-E26150B36611",
+    "height": 521,
+    "width": 323,
+    "x": 726,
+    "y": 1890
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card  copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB3646E4-AD8E-430A-9E29-7509DFAD7550",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/edb013865a25e9bb7b0ec2fdafb8894db88de171",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4315FEE4-047B-4E03-B137-FA076C369227",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "General Sherman"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AB3C217-BC16-4845-8A13-138B80999204",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03B139A2-3969-40EE-B36C-C1DF7CDCE5EB",
+      "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
+      "value": "1K"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C5CD529-C059-43B1-ADEE-BD3146252ABC",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$2300"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E739780-5071-4A54-B91F-91880B7DECDC",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Andy warhol's new york"
+    }
+  ],
+  "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "General Sherman",
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/edb013865a25e9bb7b0ec2fdafb8894db88de171",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Andy warhol's new york",
+    "7019023F-2684-453D-B3BF-6439BBAF1601": "1K",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America",
+    "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2300"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E82B38E3-709A-44A0-A4AC-88197C38CC6E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

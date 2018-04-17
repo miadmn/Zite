@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "F4CE0A82-093A-447C-8581-E0CEEC02320B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDC96636-1232-4AFF-81C6-7FFF1077E963",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "556EF937-F886-4B25-8B04-BC960AF089F3",
+    "height": 37,
+    "width": 69,
+    "x": 199.8010159522325,
+    "y": 181.4351137102016
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B83C8688-6976-4210-B63D-A07876F60438"
+    },
+    {
+      "class": "text",
+      "id": "6FA5ADA6-6471-46F1-AD5F-47C2E1BA276D"
+    }
+  ],
+  "name": "Selected calendar numbers",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54420F46-96CE-42E7-AAAD-D3DB81F5562B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

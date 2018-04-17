@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "C06CCE6F-1930-44B1-88CF-023C61FFB961",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0D534D3-EFFA-4CA0-9B56-130646280D9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D5A730E-3ADB-4169-BDBD-A92EF17D6985",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92C888D8-266D-4F52-8285-E538B95CF54A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E9CA71A-8833-4EF3-885D-DDD78A99B3F8"
+    }
+  ],
+  "name": "Time trave BC",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4711CD90-15FF-4C79-AD46-2EF8C9F03DE2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

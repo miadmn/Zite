@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "B6C49881-3991-451D-A0CC-98348A0AAC2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 39,
+    "x": 1358,
+    "y": 961
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5AE15CA5-B020-4412-9D7D-3F4986E27C0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11B3188B-E243-414E-8676-0119627D584B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4E916B3-5B15-4546-9129-30CF5528D05E"
+    }
+  ],
+  "name": "np_mouse-down_81090_000000",
+  "nameIsFixed": false,
+  "resizingConstraint": 54,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.3046422101449276
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

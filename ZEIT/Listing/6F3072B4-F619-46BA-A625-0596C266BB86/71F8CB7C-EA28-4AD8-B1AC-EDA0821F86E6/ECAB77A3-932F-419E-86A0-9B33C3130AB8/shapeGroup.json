@@ -1,0 +1,123 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "ECAB77A3-932F-419E-86A0-9B33C3130AB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3ABF519A-E505-4DA4-B870-500E3ACED890",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36DC9456-4F2B-4B7F-94AE-C093C0BD6C43",
+    "height": 92,
+    "width": 75,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "78E935C1-D0A3-4115-8B41-719A07719436"
+    },
+    {
+      "class": "shapePath",
+      "id": "20A85882-3B4A-4EB8-A416-4A7C37A95F1B"
+    },
+    {
+      "class": "shapePath",
+      "id": "A991CD5A-3A47-4860-A76C-582A716D067E"
+    },
+    {
+      "class": "shapePath",
+      "id": "44487966-8698-41F3-BAB3-F3A0EA3DE285"
+    },
+    {
+      "class": "shapePath",
+      "id": "0EE3C577-B90B-411D-B48D-36E1E129CEFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2C117AD-3BC9-4BB1-8136-5DFC17FECCB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "E54EE836-B372-451E-BB19-94FDF5B17961"
+    },
+    {
+      "class": "shapePath",
+      "id": "B99BEEF6-61AF-4418-A712-E8A6DDE5320E"
+    },
+    {
+      "class": "shapePath",
+      "id": "06C073F3-CDF8-479F-959D-E80BBB27470B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4FD2524-8D79-44C9-8AAA-BF85A111F4B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "14B8193C-54E4-4D1C-A75C-F968BB854B91"
+    },
+    {
+      "class": "shapePath",
+      "id": "F60881C3-9626-4118-BCDA-5B6279E0650C"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DD96972-65E2-4AAE-B4FB-C38FFE66991A"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "ECFD40B8-9A25-42A0-8FBC-F3A5F778CD2D",
+      "opacity": 0.5
+    },
+    "do_objectID": "A9BF0085-54BB-4544-80FC-E40DF3046C0C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3137254901960784,
+          "green": 0.196078431372549,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

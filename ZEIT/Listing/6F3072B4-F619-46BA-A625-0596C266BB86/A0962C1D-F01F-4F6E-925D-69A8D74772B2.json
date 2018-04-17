@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A0962C1D-F01F-4F6E-925D-69A8D74772B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8010AF4-9833-4310-A01A-2556245AD0FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FDEF2CF-B487-436D-89CE-A6E145DBCF07",
+    "height": 521,
+    "width": 323,
+    "x": 384,
+    "y": 1890
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card  copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80B9893B-C564-4BBC-B8BD-1A494DCA95B9",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c3bf3dbb14746e86d73733652761dfe38ad845ab",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E88C94D8-31D3-4359-ABBB-21056AC1888E",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "British Troops"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9645CAE7-2D0D-411B-BCC3-AE3E3FB110E7",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#Europe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4419646-9A95-4678-A07A-DDE2EEDDDB49",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$2000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65CBC1BA-78D4-4514-83EC-E4C61D105329",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Martin Luther King Jr.'s \"I Have a Dream\" speech, August 28, 1963"
+    }
+  ],
+  "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "British Troops",
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/c3bf3dbb14746e86d73733652761dfe38ad845ab",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Martin Luther King Jr.'s \"I Have a Dream\" speech, August 28, 1963",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#Europe",
+    "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2000"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8B0302B-27FE-47B1-BBBD-6AAA6B4626A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A18B0273-FE37-445B-BB26-6845F4BA13CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D4638D6-7CA8-4B52-8EDB-8DD33BBC2179",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88ADA112-9EB7-4992-8B93-C555533DA3F7",
+    "height": 36.77738791423008,
+    "width": 68.11398271098852,
+    "x": 294.7821807325544,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CEAE84E4-27C7-428A-A5D7-7B3E662CBAF5"
+    },
+    {
+      "class": "text",
+      "id": "09D698C8-2AA2-4D4A-8FF9-C2F210AE0113"
+    }
+  ],
+  "name": "Selected calendar numbers Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93A1F086-884E-4F61-B1F3-208A522A678C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

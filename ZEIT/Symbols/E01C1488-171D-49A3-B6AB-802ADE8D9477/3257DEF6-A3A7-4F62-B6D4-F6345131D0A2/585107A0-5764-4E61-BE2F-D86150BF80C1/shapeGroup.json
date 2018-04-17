@@ -1,0 +1,615 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "585107A0-5764-4E61-BE2F-D86150BF80C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 399,
+    "width": 323,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0F763CBF-2442-4C38-9796-65781F029987"
+    }
+  ],
+  "name": "path22_fill",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8470588235294118,
+          "green": 0.8156862745098039,
+          "red": 0.3764705882352941
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 2
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 4,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{1.0973390663405245, 0.12514995111843571}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1098039215686274,
+                "green": 0.01568627450980392,
+                "red": 0
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1.0973390663529576, 1.1922222222295469}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/f2381e3f38382e747be0049547d202724702ceb0",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.5048969655797102,
+          "blue": 0.3254901960784314,
+          "green": 0.09803921568627443,
+          "red": 0.06274509803921567
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{1, -6.1232280701754386e-17}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0,
+                "green": 0.2392156862745098,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.38,
+                "blue": 0.2666666666666667,
+                "green": 0.09019607843137255,
+                "red": 1
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        },
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://www.slideshare.net/guimera/historic-black-and-white-photos",
+            "type": "src"
+          },
+          {
+            "link": "https://image.slidesharecdn.com/historicblackandwhitephotos-131102170945-phpapp01/95/historic-black-and-white-photos-1-638.jpg?cb=1383438561",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5171D7E4-AAE4-43C5-BEE3-2629260B72BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7365175-A2E3-4AD9-B13C-333963291A95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D59CB70-DA33-4ECA-A5CB-E9316FB386B7",
+    "height": 521,
+    "width": 323,
+    "x": 42,
+    "y": 2587
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card  copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C60D1AB-28EB-4AFA-B9BE-A6750B605E41",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f72fd9012f65328b758b3af0967c6477395d1ad4",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "259650BF-BCEC-485A-9FFA-9351387A7877",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34FBE105-DE05-481A-AB4E-C766C6719CD7",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Plato's Greece, 368 BC"
+    }
+  ],
+  "overrides": {
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/f72fd9012f65328b758b3af0967c6477395d1ad4",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Plato's Greece, 368 BC",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9164E3D-9725-483E-9FAF-B802122578AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

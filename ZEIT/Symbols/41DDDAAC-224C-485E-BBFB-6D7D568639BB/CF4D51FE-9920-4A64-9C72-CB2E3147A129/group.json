@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "CF4D51FE-9920-4A64-9C72-CB2E3147A129",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC064FBD-6C43-48CC-BE4D-59233E26B775",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D32EF22B-1C0F-493D-80CF-409447BFABAC",
+    "height": 54,
+    "width": 181,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A6C1716-51E7-40E6-AF6C-840D68FA15D4"
+    },
+    {
+      "class": "group",
+      "id": "B6AADDA1-77B2-49B6-B7E5-C41456932600"
+    },
+    {
+      "class": "text",
+      "id": "00A8FD97-5A35-4359-BB2D-EA3FAE8970CA"
+    }
+  ],
+  "name": "button desktop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8608CD69-EA46-4520-A807-E4B2BA581BCB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8016050170068028,
+          "green": 0.8016050170068028,
+          "red": 0.8016050170068028
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

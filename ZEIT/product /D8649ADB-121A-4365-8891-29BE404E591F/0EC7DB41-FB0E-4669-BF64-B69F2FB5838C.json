@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0EC7DB41-FB0E-4669-BF64-B69F2FB5838C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C220C5E-3C50-4B0B-977B-9315AFE32C91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "94A26EC7-4478-4DBA-BD7C-4857D5B46DFD",
+    "height": 60,
+    "width": 60,
+    "x": 1339,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4FA7C83-BE82-4399-BC86-D94517BE4093",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31D52DC9-5BDD-42BD-A4AA-D01712E6CC00",
+  "verticalSpacing": 0
+}

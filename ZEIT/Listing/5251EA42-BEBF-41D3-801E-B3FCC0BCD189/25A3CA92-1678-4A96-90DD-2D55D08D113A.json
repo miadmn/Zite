@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "25A3CA92-1678-4A96-90DD-2D55D08D113A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "D8649ADB-121A-4365-8891-29BE404E591F",
+    "do_objectID": "08F4297B-C486-4E5E-B8F7-B8929A78F49F"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 521,
+    "width": 323,
+    "x": 42,
+    "y": 496
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/46e68979d8806cc3122a23f03bec42a987539a29",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
+      "value": "3K"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "475070C0-BDD7-4C27-B443-BE4C96560F87",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "France"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05AE5911-044C-4540-A477-68BECC154FED",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "van gogs france"
+    }
+  ],
+  "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "France",
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/46e68979d8806cc3122a23f03bec42a987539a29",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "van gogs france",
+    "7019023F-2684-453D-B3BF-6439BBAF1601": "3K",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

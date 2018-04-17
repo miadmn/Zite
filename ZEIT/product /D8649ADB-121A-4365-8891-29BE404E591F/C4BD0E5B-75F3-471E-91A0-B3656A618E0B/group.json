@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "C4BD0E5B-75F3-471E-91A0-B3656A618E0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C664BD0C-E53E-4096-8CDC-62D553077DC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E1889008-6EE1-4766-AAD3-B1245B2E1C19",
+    "height": 60,
+    "width": 60,
+    "x": 40,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C395D89E-B36A-4F3E-99EA-ACD7B62F1ACE"
+    }
+  ],
+  "name": "Icon Copy 35",
+  "nameIsFixed": false,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3A4238D-66DD-4F7E-B30D-A59A3B659F5C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

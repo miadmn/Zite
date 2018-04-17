@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4C307DA1-3996-4E97-BADD-F548BFCD8625",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "487FCD4F-2698-49B6-B8F5-378BAB695F97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6698FEA-FC73-43BB-9485-82967D7A5367",
+    "height": 62,
+    "width": 366,
+    "x": 41,
+    "y": 1079
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 3x",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DECDE48-5D43-4904-9566-F6F1F9FA9CE1",
+      "overrideName": "51C772D5-A5A8-4B4E-ABF4-A6C596C1E1E8_stringValue",
+      "value": "Most Popular"
+    }
+  ],
+  "overrides": {
+    "51C772D5-A5A8-4B4E-ABF4-A6C596C1E1E8": "Most Popular"
+  },
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23848918-7223-4345-AF24-AD069BF7C183",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8BDB35FE-F4D9-4836-B109-681B3FCC0273",
+  "verticalSpacing": 0
+}

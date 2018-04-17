@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9533EEE4-53B0-46B9-8B10-8BE367C02EDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3E3DF16-0FCC-4D39-840F-0FF9B8DE53E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBCADE49-4EF8-43B3-88E5-821C1B11EAC4",
+    "height": 151,
+    "width": 325,
+    "x": 40,
+    "y": 512
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Activity tile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DECE47A-CE47-4037-9CC4-17367980E5C3",
+      "overrideName": "CF587C73-6A6E-4DE8-9C06-8CF8A6CDA895_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/36808365b40fd323f077dcc90965a0cf6c1883b9",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "CF587C73-6A6E-4DE8-9C06-8CF8A6CDA895": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/36808365b40fd323f077dcc90965a0cf6c1883b9",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7A1CA09-F04A-4AD7-8041-E59FF1E6C0CC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53E8B237-8BAB-4952-81FE-2145677F21D8",
+  "verticalSpacing": 0
+}

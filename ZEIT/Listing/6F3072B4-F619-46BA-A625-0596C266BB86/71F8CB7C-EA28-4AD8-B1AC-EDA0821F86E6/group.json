@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "71F8CB7C-EA28-4AD8-B1AC-EDA0821F86E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE27C555-30FA-411E-BD96-9B53CE72D6E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F720977-FDCC-4122-8C60-3BA9B59318F1",
+    "height": 96,
+    "width": 100,
+    "x": -20,
+    "y": 866
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ECAB77A3-932F-419E-86A0-9B33C3130AB8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FBFE2E0-F5A5-4A04-AB3A-653AF65EF509"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A246CBF-5FBA-4D0B-8154-8D7B36FCA8AD"
+    }
+  ],
+  "name": "np_searching-flight_1572602_000000",
+  "nameIsFixed": false,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C407137B-0205-486A-B29C-C47E686FAE96",
+      "opacity": 0.4393115942028986
+    },
+    "do_objectID": "1D287AF3-9145-4177-B22E-70CA9F8AEED9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

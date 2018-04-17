@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4477D135-91D5-49F2-BFC5-9535ED28C53E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "AC5B35FB-84B3-492B-ABC8-375FA7D73B82",
+    "do_objectID": "82D0B637-F836-4B2D-87B1-8C37304A616D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 181,
+    "x": 339,
+    "y": 1618
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "see all",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB8E6D7A-5EE9-4ED5-9BFF-99511A1C2FCF",
+      "overrideName": "1A2A9153-7746-4262-BF93-852DC4119D0E_stringValue",
+      "value": "Book"
+    }
+  ],
+  "overrides": {
+    "1A2A9153-7746-4262-BF93-852DC4119D0E": "Book"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2412DBC5-E5B0-4A37-9A6F-49DF60DBB8C1",
+  "verticalSpacing": 0
+}

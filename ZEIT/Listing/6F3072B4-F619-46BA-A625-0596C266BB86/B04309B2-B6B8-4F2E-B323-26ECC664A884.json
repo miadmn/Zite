@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B04309B2-B6B8-4F2E-B323-26ECC664A884",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52C097F3-09B5-4567-87D4-42AECD64DB57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE04F0FC-104E-40B9-A332-4602E789475F",
+    "height": 151,
+    "width": 325,
+    "x": 384,
+    "y": 690
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Activity tile Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC0422F6-E808-40DB-9715-3B9DEDF253BD",
+      "overrideName": "4E587CB0-09D3-4B02-8769-CB5B31881286_stringValue",
+      "value": "Romance"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB2B8B13-455E-4305-832A-FA1796DD42E1",
+      "overrideName": "CF587C73-6A6E-4DE8-9C06-8CF8A6CDA895_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8d3ded9ae9cacd40e7c0222ddfda4bed1ec90091",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "4E587CB0-09D3-4B02-8769-CB5B31881286": "Romance",
+    "CF587C73-6A6E-4DE8-9C06-8CF8A6CDA895": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/8d3ded9ae9cacd40e7c0222ddfda4bed1ec90091",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B12CB71E-BD54-48E4-964C-392A56685423",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53E8B237-8BAB-4952-81FE-2145677F21D8",
+  "verticalSpacing": 0
+}

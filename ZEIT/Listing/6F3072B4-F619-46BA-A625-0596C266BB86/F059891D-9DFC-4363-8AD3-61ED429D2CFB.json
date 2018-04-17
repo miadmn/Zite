@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F059891D-9DFC-4363-8AD3-61ED429D2CFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54683B61-330A-4E0E-8CB3-92019F25623F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7ED3258F-DB1E-46F3-85D3-045DDB0F1169",
+    "height": 521,
+    "width": 323,
+    "x": 732,
+    "y": 2587
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product card  copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4BCD0AA-AE11-49C2-AAB1-4C7496422398",
+      "overrideName": "585107A0-5764-4E61-BE2F-D86150BF80C1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9100ea19a2c7201cf26c43352432bc8ee11f0d33",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B6D011C-5B9C-46FC-ADC1-51F4E791BC1F",
+      "overrideName": "0B01B2BB-A227-4BD4-BCE0-53FE54499F55_stringValue",
+      "value": "V-J Day"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54C83DCE-7410-40D2-89A1-8E3865A55D3C",
+      "overrideName": "89BD9AA6-5185-49DE-9D1A-EE736C330F8D_stringValue",
+      "value": "#America"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5382DE6-F0BF-455A-963C-87846E0D2DEF",
+      "overrideName": "7019023F-2684-453D-B3BF-6439BBAF1601_stringValue",
+      "value": "1.1K"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "224D5E08-F709-4F0D-9048-2B306D0F9B43",
+      "overrideName": "918B7D49-AE74-4FD5-A007-8E24928B22FD_stringValue",
+      "value": "$2300"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDBEC3D2-AEA9-47DC-B3A1-C29BBCFFD225",
+      "overrideName": "6EC61278-B3B0-4FE0-9609-DD389354E1BA_stringValue",
+      "value": "Shakespeare at the Globe, 1608"
+    }
+  ],
+  "overrides": {
+    "0B01B2BB-A227-4BD4-BCE0-53FE54499F55": "V-J Day",
+    "585107A0-5764-4E61-BE2F-D86150BF80C1": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/9100ea19a2c7201cf26c43352432bc8ee11f0d33",
+      "_ref_class": "MSImageData"
+    },
+    "6EC61278-B3B0-4FE0-9609-DD389354E1BA": "Shakespeare at the Globe, 1608",
+    "7019023F-2684-453D-B3BF-6439BBAF1601": "1.1K",
+    "89BD9AA6-5185-49DE-9D1A-EE736C330F8D": "#America",
+    "918B7D49-AE74-4FD5-A007-8E24928B22FD": "$2300"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCD8C3F8-93CE-4085-9D03-492A1ADC7D97",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "383F207C-C4FB-47AD-81D1-4FBC56212599",
+  "verticalSpacing": 0
+}

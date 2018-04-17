@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "BC4D1C1B-9D50-4B5C-9F94-EF0DE4D0D8A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F123746-95F1-4C9B-9CC1-CAA063E076C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E923755-EDD2-4F96-8E7C-E6C5ECDE7DCD",
+    "height": 37,
+    "width": 69,
+    "x": 283.8082612957845,
+    "y": 181.1672646557069
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "054307B6-C19A-4FC5-8BCE-539C32DEE01F"
+    },
+    {
+      "class": "text",
+      "id": "28F78942-F7FA-4305-8F32-DB77F9F8179F"
+    }
+  ],
+  "name": "Selected calendar numbers Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1115786-15D9-418A-9E29-85196E10A283",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
