@@ -162,6 +162,10 @@
     "startDecorationType": 0
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
         "asTile": 0,

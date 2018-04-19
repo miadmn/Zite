@@ -95,6 +95,10 @@
     {
       "class": "symbolMaster",
       "id": "97FE667C-978D-4050-AA28-D6BD54FCE3FC"
+    },
+    {
+      "class": "bitmap",
+      "id": "65194F8E-D8DC-422E-930E-386465638A35"
     }
   ],
   "name": "Symbols",
